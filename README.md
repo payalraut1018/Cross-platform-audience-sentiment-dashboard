@@ -7,8 +7,9 @@ A Power BI dashboard that estimates the number of unique individuals reached by 
 
 Platform-level reporting tends to overstate reach, disregard sentiment, and offer limited insight into how quickly audience attention declines. This project addresses all three limitations using a single dataset of approximately 150,000 posts.
 
-![Page 1: Reach & Overlap](screenshots/page1-reach-overlap.png)
-![Page 2: Sentiment & Fatigue](screenshots/page2-sentiment-fatigue.png)
+Screenshot
+[Page 1: Reach & Overlap](https://github.com/payalraut1018/Cross-platform-audience-sentiment-dashboard/blob/main/Screenshot%20Page%201%20-%20Reach%20%26%20Overlap.png)
+[Page 2: Sentiment & Fatigue](https://github.com/payalraut1018/Cross-platform-audience-sentiment-dashboard/blob/main/Screenshot%20Page%202%20-%20Sentiment%20%26%20Fatigue.png)
 
 ## Business Problem
 
